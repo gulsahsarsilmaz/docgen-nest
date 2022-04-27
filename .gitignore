@@ -12,6 +12,9 @@ node_modules/
 packages/**/*.d.ts
 packages/**/*.js
 
+# transpile
+**/dist
+
 # misc
 .DS_Store
 lerna-debug.log
